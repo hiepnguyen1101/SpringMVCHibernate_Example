@@ -1,6 +1,6 @@
 # SpringMVCHibernate_Example
 # written by hiepdev 
-
+http://pdf.th7.cn/down/files/1508/Beginning%20Spring.pdf
 <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-web -->
 <dependency>
     <groupId>org.springframework.security</groupId>
